@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.1745cf76.css",
-    "main.js": "/static/js/main.ea9832d2.js",
+    "main.css": "/static/css/main.f59715ed.css",
+    "main.js": "/static/js/main.31cca518.js",
     "static/media/body-img.svg": "/static/media/body-img.0a01cf1d127f44dca362d7b046119e7b.svg",
     "static/media/fighters.svg": "/static/media/fighters.10a75c80396ec9c0bd91ab9f89eda767.svg",
-    "static/media/courseid.svg": "/static/media/courseid.ad2728fa8f1303aaf2a11463656139af.svg",
     "static/media/avatar.svg": "/static/media/avatar.7d64462a7dc56858d6e59a905d51f113.svg",
     "static/media/blog.svg": "/static/media/blog.03a4f9a6ca35c4b880069a425b97b2a4.svg",
     "static/media/gude11.svg": "/static/media/gude11.18db9b2426095e3834bb08ce46a172d7.svg",
@@ -12,7 +11,9 @@
     "static/media/blogid.svg": "/static/media/blogid.e3fd4ca8599daea712c08346e4060ad5.svg",
     "static/media/tutorials.svg": "/static/media/tutorials.f977c4da01993f8f4e401c99f4daac25.svg",
     "static/media/image2.svg": "/static/media/image2.e2292a54a50ca9b78ceb1419056b5b65.svg",
+    "static/media/coursesDetails.png": "/static/media/coursesDetails.11fb5ab3dceaa904c365.png",
     "static/media/abilityimage.svg": "/static/media/abilityimage.603e70f5c8b6c6227f06db6d427ba179.svg",
+    "static/media/blogIDImage.png": "/static/media/blogIDImage.6272b20398f8cdf8b45a.png",
     "static/media/aboutimage1.svg": "/static/media/aboutimage1.02cdc7e98025ad24813554cca4e08ecd.svg",
     "static/media/bg.svg": "/static/media/bg.0d359fdd37687d8897573c8c1c2317e1.svg",
     "static/media/DMSans-VariableFont_opsz,wght.ttf": "/static/media/DMSans-VariableFont_opsz,wght.b230ddb7eabb4b25e123.ttf",
@@ -31,16 +32,21 @@
     "static/media/guide6.svg": "/static/media/guide6.69b3b6e79da156eb653f55bcf4e3d30c.svg",
     "static/media/icon2.svg": "/static/media/icon2.ca09c9fb30eb5a236db19d39a51f2a7e.svg",
     "static/media/gallery-tick.svg": "/static/media/gallery-tick.590d4275d56b72586bc0c202ab5cc727.svg",
+    "static/media/galleryTick.svg": "/static/media/galleryTick.5a6c059f7dc7f356bbb76d7688b50923.svg",
     "static/media/icon6.svg": "/static/media/icon6.2eef74cf2c805b9c9df1440264ec63d4.svg",
     "static/media/guide10.svg": "/static/media/guide10.f10bfc8bac44c16536a943a1f7d89acf.svg",
     "index.html": "/index.html",
+    "static/media/playIcon.svg": "/static/media/playIcon.0d1980be62b26ad97a3811a6e8f481ef.svg",
+    "static/media/caretDown.svg": "/static/media/caretDown.5b284febb37aaacf2d4a23935a73864b.svg",
     "static/media/blogidicon.svg": "/static/media/blogidicon.d55092e7410215accca325ac9b523e69.svg",
+    "static/media/addIcon.svg": "/static/media/addIcon.9173e565a87c5828578a244f356d9bc4.svg",
+    "static/media/check.svg": "/static/media/check.d1c8da8c550961fbfe3a15b7bbef9ec3.svg",
     "static/media/checktick.svg": "/static/media/checktick.82a5fb557f4ea800f8f6fdaab9fd00ae.svg",
-    "main.1745cf76.css.map": "/static/css/main.1745cf76.css.map",
-    "main.ea9832d2.js.map": "/static/js/main.ea9832d2.js.map"
+    "main.f59715ed.css.map": "/static/css/main.f59715ed.css.map",
+    "main.31cca518.js.map": "/static/js/main.31cca518.js.map"
   },
   "entrypoints": [
-    "static/css/main.1745cf76.css",
-    "static/js/main.ea9832d2.js"
+    "static/css/main.f59715ed.css",
+    "static/js/main.31cca518.js"
   ]
 }
