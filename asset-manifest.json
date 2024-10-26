@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f59715ed.css",
-    "main.js": "/static/js/main.31cca518.js",
+    "main.css": "/static/css/main.af74982e.css",
+    "main.js": "/static/js/main.ce9b9bbc.js",
     "static/media/body-img.svg": "/static/media/body-img.0a01cf1d127f44dca362d7b046119e7b.svg",
     "static/media/fighters.svg": "/static/media/fighters.10a75c80396ec9c0bd91ab9f89eda767.svg",
     "static/media/avatar.svg": "/static/media/avatar.7d64462a7dc56858d6e59a905d51f113.svg",
@@ -13,6 +13,7 @@
     "static/media/image2.svg": "/static/media/image2.e2292a54a50ca9b78ceb1419056b5b65.svg",
     "static/media/coursesDetails.png": "/static/media/coursesDetails.11fb5ab3dceaa904c365.png",
     "static/media/abilityimage.svg": "/static/media/abilityimage.603e70f5c8b6c6227f06db6d427ba179.svg",
+    "static/media/heroVideo.mp4": "/static/media/heroVideo.6c845824ad2a7e98415a.mp4",
     "static/media/blogIDImage.png": "/static/media/blogIDImage.6272b20398f8cdf8b45a.png",
     "static/media/aboutimage1.svg": "/static/media/aboutimage1.02cdc7e98025ad24813554cca4e08ecd.svg",
     "static/media/bg.svg": "/static/media/bg.0d359fdd37687d8897573c8c1c2317e1.svg",
@@ -42,11 +43,11 @@
     "static/media/addIcon.svg": "/static/media/addIcon.9173e565a87c5828578a244f356d9bc4.svg",
     "static/media/check.svg": "/static/media/check.d1c8da8c550961fbfe3a15b7bbef9ec3.svg",
     "static/media/checktick.svg": "/static/media/checktick.82a5fb557f4ea800f8f6fdaab9fd00ae.svg",
-    "main.f59715ed.css.map": "/static/css/main.f59715ed.css.map",
-    "main.31cca518.js.map": "/static/js/main.31cca518.js.map"
+    "main.af74982e.css.map": "/static/css/main.af74982e.css.map",
+    "main.ce9b9bbc.js.map": "/static/js/main.ce9b9bbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f59715ed.css",
-    "static/js/main.31cca518.js"
+    "static/css/main.af74982e.css",
+    "static/js/main.ce9b9bbc.js"
   ]
 }
