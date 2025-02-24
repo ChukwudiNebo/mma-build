@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac351119.css",
-    "main.js": "/static/js/main.30aac2f9.js",
+    "main.css": "/static/css/main.c6f331c0.css",
+    "main.js": "/static/js/main.b180acbd.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.069ab102.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.8bbdcfc2.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.9d49121b.chunk.js",
@@ -23,10 +23,10 @@
     "static/media/guide9.svg": "/static/media/guide9.6772f056cca927cf4ae0da175927f19c.svg",
     "static/media/blogid.svg": "/static/media/blogid.e3fd4ca8599daea712c08346e4060ad5.svg",
     "static/media/tutorials.svg": "/static/media/tutorials.f977c4da01993f8f4e401c99f4daac25.svg",
+    "static/media/HeroBG.MP4": "/static/media/HeroBG.948a1adeab20879e45f9.MP4",
     "static/media/image2.svg": "/static/media/image2.e2292a54a50ca9b78ceb1419056b5b65.svg",
     "static/media/coursesDetails.png": "/static/media/coursesDetails.11fb5ab3dceaa904c365.png",
     "static/media/abilityimage.svg": "/static/media/abilityimage.603e70f5c8b6c6227f06db6d427ba179.svg",
-    "static/media/heroVideo.mp4": "/static/media/heroVideo.6c845824ad2a7e98415a.mp4",
     "static/media/blogIDImage.png": "/static/media/blogIDImage.6272b20398f8cdf8b45a.png",
     "static/media/aboutimage1.svg": "/static/media/aboutimage1.02cdc7e98025ad24813554cca4e08ecd.svg",
     "static/media/bg.svg": "/static/media/bg.0d359fdd37687d8897573c8c1c2317e1.svg",
@@ -61,8 +61,8 @@
     "static/media/addIcon.svg": "/static/media/addIcon.9173e565a87c5828578a244f356d9bc4.svg",
     "static/media/check.svg": "/static/media/check.d1c8da8c550961fbfe3a15b7bbef9ec3.svg",
     "static/media/checktick.svg": "/static/media/checktick.82a5fb557f4ea800f8f6fdaab9fd00ae.svg",
-    "main.ac351119.css.map": "/static/css/main.ac351119.css.map",
-    "main.30aac2f9.js.map": "/static/js/main.30aac2f9.js.map",
+    "main.c6f331c0.css.map": "/static/css/main.c6f331c0.css.map",
+    "main.b180acbd.js.map": "/static/js/main.b180acbd.js.map",
     "reactPlayerYouTube.069ab102.chunk.js.map": "/static/js/reactPlayerYouTube.069ab102.chunk.js.map",
     "reactPlayerSoundCloud.8bbdcfc2.chunk.js.map": "/static/js/reactPlayerSoundCloud.8bbdcfc2.chunk.js.map",
     "reactPlayerVimeo.9d49121b.chunk.js.map": "/static/js/reactPlayerVimeo.9d49121b.chunk.js.map",
@@ -79,7 +79,7 @@
     "reactPlayerPreview.eaac6572.chunk.js.map": "/static/js/reactPlayerPreview.eaac6572.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac351119.css",
-    "static/js/main.30aac2f9.js"
+    "static/css/main.c6f331c0.css",
+    "static/js/main.b180acbd.js"
   ]
 }
